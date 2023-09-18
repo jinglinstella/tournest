@@ -13,6 +13,7 @@ This is a practice project to hone my full-stack development skills.
 - [x] Upload tour pictures
 - [x] Write reviews
 - [x] Make and accept payments
+- [x] Admin rights on tours and bookings
 ## Technologies
 - Node.js
 - Express
