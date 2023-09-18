@@ -47,7 +47,7 @@ A tour booking platform that allows users to register an account, view tour desc
 ![signin](https://github.com/jinglinstella/tournest/assets/133833518/089e428c-477c-45e5-b37e-c70231974761)
 
 ### Forget password
-![forget-password](https://github.com/jinglinstella/tournest/assets/133833518/c3c00977-2176-4223-adc3-3acccb3695f7)
+![forget-password2](https://github.com/jinglinstella/tournest/assets/133833518/6f373972-6093-4b72-a852-dfda6b68ab12)
 
 
 
