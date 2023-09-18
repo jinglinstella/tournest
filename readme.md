@@ -1,5 +1,6 @@
 # Tournest
-A tour booking platform that allows users to register an account, view tour descriptions, write reviews, place orders and more. A user can be either a regular user or an admin.
+A tour booking platform that allows users to register an account, view tour descriptions, write reviews, place orders and more. A user can be either a regular user or an admin. </br>
+This is a practice project to hone my full-stack development skills.
 ## Features
 - [x] Create an account
 - [x] Sign in and Sign out
