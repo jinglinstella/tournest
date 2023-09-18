@@ -15,7 +15,7 @@ A tour booking platform that allows users to register an account, view tour desc
 ## Technologies
 - Node.js
 - Express
-- Mongo DB
+- Mongo DB/Mongoose
 - Javascript
 - Pug
 - Stripe
