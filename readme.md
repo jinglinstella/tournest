@@ -25,7 +25,6 @@ This is a practice project to hone my full-stack development skills.
 - CSS
 - Nodemailer
 - JSON Web Token
-- Stripe
 ## Screenshots
 ### Overview
 ![main](https://github.com/jinglinstella/tournest/assets/133833518/d311090a-51d8-48fa-ae7c-f56529a8620b)
